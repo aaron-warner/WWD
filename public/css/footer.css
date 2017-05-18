@@ -1,0 +1,140 @@
+/************* FOOTER STYLES *******************/
+
+.footer-container {
+	padding: 0px;
+}
+
+.footer {
+	background-color: #666668;
+	color: #FFF;
+	padding-bottom: 25px;
+}
+
+.footer div[class*="col-xs-10"] {
+	padding: 0px !important;
+}
+
+.footer div[class*="col-"] {
+	padding: 25px;
+}
+
+@media(max-width: 990px) {
+	.footer div[class*="col-"] {
+		padding: 0px !important;
+		text-align: center;
+	}
+}
+
+.footer ul li a {
+	color: #FFF;
+}
+
+.footer ul li a:hover {
+	color: #EE3253;
+	text-decoration: none;
+}
+
+.padding-left-10 {
+	padding-left: 10px !important;
+}
+
+/************* COPYRIGHT BAR STYLES *******************/
+
+.copyright {
+	background-color: #464646;
+	color: #FFF;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.copyright p {
+	margin: 0;
+}
+
+.copyright a {
+	color: #FFF;
+}
+
+.copyright a:hover {
+	color: #EE3253;
+	text-decoration: none;
+}
+
+#padded-left-20 {
+	padding-left: 20px;
+}
+
+/************* ICON STYLES *******************/
+
+.social-network a.icoRss:hover {
+	background-color: #F56505;
+}
+
+.social-network a.icoFacebook:hover {
+	background-color:#3B5998;
+}
+
+.social-network a.icoTwitter:hover {
+	background-color:#33ccff;
+}
+
+.social-network a.icoLinkedin:hover {
+	background-color:#007bb7;
+}
+
+.social-network a.icoRss:hover i, 
+.social-network a.icoFacebook:hover i, 
+.social-network a.icoTwitter:hover i, 
+.social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+
+a.socialIcon:hover,
+ .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 50px;
+	height: 50px;
+	font-size:20px;
+}
+
+.social-circle li i {
+	margin:0;
+	line-height:50px;
+	text-align: center;
+}
+
+.social-circle li a:hover i,
+ .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+.social-circle i {
+	color: #FFF;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+.social-circle li a {
+	background-color: #EE3253;
+}
