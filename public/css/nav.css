@@ -1,0 +1,78 @@
+/********************* OVERLAY NAV STYLES ********************/
+
+/* The Overlay (background) */
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 99999999;
+    left: 0;
+    top: 0;
+    background-color: rgb(38,38,38);
+    background-color: rgba(38,38,38, 0.9);
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s;
+}
+
+.overlay-nav-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px; /* margin to avoid conflict with the close button on smaller screens */
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #FFF;
+    display: block; /* Display block instead of inline */
+    transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #000;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
+
+#menu-btn {
+  z-index: 900;
+  position: fixed;
+  top: 0;
+  right: 0;
+  display: block;
+  cursor: pointer;
+  width: 80px;
+  height: 80px;
+  background-color: #000;
+  border-bottom-left-radius: 100%;
+}
+  
+#menu-btn i {
+    color: #FFF;
+    position: fixed;
+    top: 15px;
+    right: 20px;
+    font-size: 30px;
+}
+
+#menu-btn:hover {
+  background-color: #262626;
+}
