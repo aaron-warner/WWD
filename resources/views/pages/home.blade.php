@@ -8,15 +8,10 @@
 
 		<div class="well">
 
-			<h1>Welcome to Warner Web Design</h1>
-			<h3>Web Development in the West Midlands</h3>
+			<h1>Hi Chelsea</h1>
+			<h3>I <i class="fa fa-heart" aria-hidden="true"></i> YOU</h3>
 
 		</div>
 
 	</div>
-
-	<h1>YOYOYOYYOYOYOYOYO</h1>
-	<h2>I should see this heading</h2>
-	<h2>I should see this too</h2>
-
 @endsection
