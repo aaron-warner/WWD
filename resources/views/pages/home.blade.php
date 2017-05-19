@@ -7,7 +7,7 @@
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="/">
-				<img src="{{ asset('images/logo.png') }}" width="200" height="130" class="img-responsive" alt="Manufacturing Advisory Service logo">
+				<img src="{{ asset('images/logo.png') }}" width="200" height="130" class="img-responsive" alt="Warner Web Design logo">
 			</a>
 		</div>
 		<nav class="cd-primary-nav">
@@ -65,9 +65,10 @@
 	</div> <!-- .cd-secondary-nav -->
 	<main class="cd-main-content">
 		<section id="cd-placeholder-1" class="cd-section cd-container">
-			<h2>Intro</h2>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ab consequatur fugiat delectus sint in velit quo possimus, ullam aspernatur ipsa natus tenetur nulla distinctio doloremque totam. Earum enim sed dolorum, exercitationem temporibus quaerat eos, accusantium amet facilis facere eaque commodi optio quidem rem minima nisi laborum quae animi nostrum aut voluptates veniam. Cum neque quam fuga sapiente quidem eum necessitatibus nulla, cupiditate a, repudiandae iusto in dolor eaque commodi nostrum consequuntur dolores velit eligendi dolorem quae. Distinctio quae, cumque aliquid quos consequuntur perspiciatis voluptates, laboriosam velit qui et aut sint esse nemo voluptatibus, dolore veritatis natus facilis commodi sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis tempore, harum consequatur optio laboriosam nihil sint voluptatem ducimus porro quae expedita alias consectetur explicabo cumque maxime facere praesentium! Ad illo quibusdam omnis suscipit qui eos autem est laborum ducimus! Tenetur?
+			<img src="{{ asset('images/aaron.jpg') }}" width="200" height="130" class="img-responsive img-center img-circle" alt="Aaron Warner, Web Developer">
+			<hr>
+			<p class="text-center">
+				My name is Aaron Warner. I am an experienced Web Developer based in the West Midlands with a demonstrated history of working with strong businesses and clients to attain a strong web presence. I studied towards a Bachelor of Engineering (BEng) focused in Computer Technology/Computer Systems Technology from the University of Birmingham before persuing my desire to become a well-established and respected web developer. 
 			</p>
 		</section> <!-- #cd-placeholder-1 -->
 
