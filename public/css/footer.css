@@ -5,7 +5,7 @@
 }
 
 .footer {
-	background-color: #666668;
+	background-color: #0D1621;
 	color: #FFF;
 	padding-bottom: 25px;
 }
@@ -41,7 +41,7 @@
 /************* COPYRIGHT BAR STYLES *******************/
 
 .copyright {
-	background-color: #464646;
+	background-color: #F5484A;
 	color: #FFF;
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -70,8 +70,8 @@
 	background-color: #F56505;
 }
 
-.social-network a.icoFacebook:hover {
-	background-color:#3B5998;
+.social-network a.icoGithub:hover {
+	background-color:#913399;
 }
 
 .social-network a.icoTwitter:hover {
@@ -83,7 +83,7 @@
 }
 
 .social-network a.icoRss:hover i, 
-.social-network a.icoFacebook:hover i, 
+.social-network a.icoGithub:hover i, 
 .social-network a.icoTwitter:hover i, 
 .social-network a.icoLinkedin:hover i {
 	color:#fff;
@@ -136,5 +136,5 @@ a.socialIcon:hover,
 }
 
 .social-circle li a {
-	background-color: #EE3253;
+	background-color: #F5484A;
 }

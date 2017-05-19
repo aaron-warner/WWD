@@ -16,7 +16,7 @@
 
 					<ul class="social-network social-circle unstyled inline">
 		                <li>
-		                	<a href="https://www.facebook.com/" class="icoFacebook" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+		                	<a href="https://www.github.com/" class="icoGithub" title="Github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></i></a>
 		                </li>
 		                <li>
 		                	<a href="https://twitter.com/" class="icoTwitter" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>

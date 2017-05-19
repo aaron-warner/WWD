@@ -127,7 +127,7 @@ Navigation
   margin-right: 5%;
   width: 44px;
   height: 100%;
-  background: url("../img/cd-icon-menu.svg") no-repeat center center;
+  background: url("../images/cd-icon-menu.svg") no-repeat center center;
   background-size: 44px 44px;
 }
 .cd-primary-nav ul {
@@ -549,7 +549,6 @@ Placeholder Sections
 .cd-section h2 {
   font-size: 20px;
   font-size: 1.25rem;
-  margin-bottom: .6em;
   font-weight: 700;
 }
 .cd-section p {
@@ -568,4 +567,13 @@ Placeholder Sections
     font-size: 20px;
     font-size: 1.25rem;
   }
+}
+
+.home-section-heading {
+  width: 100%;
+  background-color: #0D1621;
+  color: #FFF;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 20px;
 }

@@ -5,7 +5,9 @@
 
 <body>
 
-    <a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+	@if (!Request::is('/'))
+    	<a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+    @endif
 
     <div class="container-fluid content">
 
