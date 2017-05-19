@@ -5,7 +5,7 @@
 			<div class="row">
 
 				<div class="col-md-4">
-					<h1>IMAGE WILL GO HERE</h1>
+					<img src="{{ asset('images/logo.png') }}" width="200" height="130" class="img-responsive" alt="Manufacturing Advisory Service logo">
 				</div>
 
 				<div class="col-md-4">
@@ -37,7 +37,7 @@
 
 			<ul class="unstyled inline">
 				<li>Copyright &copy <?php echo date("Y"); ?>. All rights reserved</li>
-				<li class="pull-right">Developed by Aaron Warner</li>
+				<li class="pull-right">Developed by <a href="/">Warner Web Design</a></li>
 			</ul>
 
 		</div>
