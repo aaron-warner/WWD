@@ -13,7 +13,7 @@
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="/">
-				<img src="{{ asset('images/logo.png') }}" width="200" height="130" class="img-responsive" alt="Warner Web Design logo">
+				<img src="{{ asset('images/logo.png') }}" width="120" height="70" class="img-responsive" alt="Warner Web Design logo">
 			</a>
 		</div>
 		<nav class="cd-primary-nav">
@@ -74,7 +74,7 @@
 			<div class="home-section-heading">
 				<h2>Intro</h2>
 			</div>
-			<img src="{{ asset('images/aaron.jpg') }}" width="100" height="70" class="img-responsive img-center img-circle" alt="Aaron Warner, Web Developer">
+			<img src="{{ asset('images/aaron.jpg') }}" width="200" height="200" class="img-responsive img-center img-circle" alt="Aaron Warner, Web Developer">
 			<hr>
 			<p class="text-center">
 				My name is Aaron Warner. I am an experienced Web Developer based in the West Midlands with a demonstrated history of working with strong businesses and clients to attain a strong web presence. I studied towards a Bachelor of Engineering (BEng) focused in Computer Technology/Computer Systems Technology from the University of Birmingham before persuing my desire to become a well-established and respected web developer. 
