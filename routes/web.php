@@ -22,3 +22,5 @@ Route::get('/portfolio', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 });
+
+Route::get('contact-submit', ['uses' => 'ContactController@getFormData', 'as' => 'contact.submit']);

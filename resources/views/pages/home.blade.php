@@ -2,6 +2,12 @@
 
 @section('title', 'Home')
 
+@section('stylesheets')
+
+	{!! Html::style('css/parsley.css') !!}
+
+@endsection
+
 @section('content')
 
 	<header class="cd-header">
@@ -68,7 +74,7 @@
 			<div class="home-section-heading">
 				<h2>Intro</h2>
 			</div>
-			<img src="{{ asset('images/aaron.jpg') }}" width="200" height="130" class="img-responsive img-center img-circle" alt="Aaron Warner, Web Developer">
+			<img src="{{ asset('images/aaron.jpg') }}" width="100" height="70" class="img-responsive img-center img-circle" alt="Aaron Warner, Web Developer">
 			<hr>
 			<p class="text-center">
 				My name is Aaron Warner. I am an experienced Web Developer based in the West Midlands with a demonstrated history of working with strong businesses and clients to attain a strong web presence. I studied towards a Bachelor of Engineering (BEng) focused in Computer Technology/Computer Systems Technology from the University of Birmingham before persuing my desire to become a well-established and respected web developer. 
@@ -208,24 +214,76 @@
 			<div class="home-section-heading">
 				<h2>Stats</h2>
 			</div>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ab consequatur fugiat delectus sint in velit quo possimus, ullam aspernatur ipsa natus tenetur nulla distinctio doloremque totam. Earum enim sed dolorum, exercitationem temporibus quaerat eos, accusantium amet facilis facere eaque commodi optio quidem rem minima nisi laborum quae animi nostrum aut voluptates veniam. Cum neque quam fuga sapiente quidem eum necessitatibus nulla, cupiditate a, repudiandae iusto in dolor eaque commodi nostrum consequuntur dolores velit eligendi dolorem quae. Distinctio quae, cumque aliquid quos consequuntur perspiciatis voluptates, laboriosam velit qui et aut sint esse nemo voluptatibus, dolore veritatis natus facilis commodi sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, minus nisi ipsam quasi. Reprehenderit quo dolorem ratione in, porro placeat nihil asperiores, ab earum excepturi sint non. Error officiis, sint expedita dolore fuga voluptates ipsam temporibus vero suscipit porro asperiores deserunt sapiente optio. Quas vero nam nihil, id suscipit, similique facere dicta velit, quis, commodi perspiciatis. Perferendis necessitatibus, in, sequi ipsum eum voluptates quisquam voluptatem, rerum fugiat deleniti voluptatum eius odio, expedita enim libero quaerat! Veniam eos, maiores nostrum mollitia reprehenderit, obcaecati repudiandae eius perspiciatis? Quo voluptatum ipsa voluptatem sequi esse eius consectetur, quae ea accusamus porro autem ipsum, quam dignissimos, nesciunt consequuntur quaerat. Numquam iure velit veniam saepe sunt enim asperiores hic nam aperiam illo officia molestias quis dicta autem incidunt consequatur dolor, explicabo corrupti nostrum odio ea laudantium magni, nulla. Eaque officiis, distinctio, dolores eligendi facilis tempore reiciendis illum iste sed temporibus rerum aliquid culpa dolor, et voluptatibus!
+			<p class="text-center">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ab consequatur fugiat delectus sint in velit quo possimus, ullam aspernatur ipsa natus tenetur nulla distinctio doloremque totam. Earum enim sed dolorum, exercitationem temporibus quaerat eos, accusantium amet facilis facere eaque commodi optio quidem rem minima nisi laborum quae animi nostrum aut voluptates veniam. Cum neque quam fuga sapiente quidem eum necessitatibus nulla, cupiditate a, repudiandae iusto in dolor eaque commodi nostrum consequuntur dolores velit eligendi dolorem quae. Distinctio quae, cumque aliquid quos consequuntur perspiciatis voluptates, laboriosam velit qui et aut sint esse nemo voluptatibus, dolore veritatis natus facilis commodi sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, minus nisi ipsam quasi. Reprehenderit quo dolorem ratione in, porro placeat nihil asperiores, ab earum excepturi sint non. Error officiis, sint expedita dolore fuga voluptates ipsam temporibus vero suscipit porro asperiores deserunt sapiente optio. Quas vero nam nihil!
 			</p>
 		</section> <!-- #cd-placeholder-4 -->
 
 		<section id="cd-placeholder-5" class="cd-section cd-container">
 			<div class="home-section-heading">
-				<h2>Contact</h2>
+				<h2>Contact Me</h2>
 			</div>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ab consequatur fugiat delectus sint in velit quo possimus, ullam aspernatur ipsa natus tenetur nulla distinctio doloremque totam. Earum enim sed dolorum, exercitationem temporibus quaerat eos, accusantium amet facilis facere eaque commodi optio quidem rem minima nisi laborum quae animi nostrum aut voluptates veniam. Cum neque quam fuga sapiente quidem eum necessitatibus nulla, cupiditate a, repudiandae iusto in dolor eaque commodi nostrum consequuntur dolores velit eligendi dolorem quae. Distinctio quae, cumque aliquid quos consequuntur perspiciatis voluptates, laboriosam velit qui et aut sint esse nemo voluptatibus, dolore veritatis natus facilis commodi sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, neque, tempora. Accusamus similique labore harum in ut repellat. Earum iusto non ex perspiciatis sequi a, provident nam optio, vitae ea vel illum excepturi aut fugiat quos. Fugit facere a, quidem quia perferendis ipsum impedit eaque repellendus esse, tenetur repellat natus voluptatem ab possimus laborum tempora qui nam vero et omnis. Sed ipsum possimus in, dignissimos optio itaque quis, reprehenderit vero vel tempora, maiores odit totam. Doloribus voluptatem similique possimus corporis pariatur labore, nulla, minima magnam, officia rerum vel alias, molestiae soluta quisquam ea. Necessitatibus hic vitae nisi ipsum cum a voluptatibus commodi eius ad minus animi cumque nulla suscipit itaque, reiciendis placeat modi sequi eligendi voluptatum. Quasi veritatis autem omnis, voluptatum hic eos dicta, repudiandae iusto rem error facere pariatur commodi impedit reprehenderit temporibus facilis magnam asperiores. Ipsam, illum commodi laboriosam neque eligendi eaque quisquam quidem illo sint eos. Esse velit provident, veritatis dolor facilis dignissimos commodi molestias saepe impedit excepturi qui odit repudiandae cumque? Sunt omnis voluptatum, eaque repellat, pariatur iure nobis cum eos repellendus voluptate culpa totam alias autem ea earum animi optio laudantium neque nisi suscipit in adipisci enim quisquam laboriosam! Cumque, fugit saepe alias mollitia dignissimos.
+
+			<p class="text-center">
+				I'd love to hear from you
 			</p>
+
+			<hr>
+
+			<form action="contact-submit" method="GET" data-parsley-validate=''>
+		        <div class="row margin-bottom">
+		            <div class="col-md-6">
+
+		                <div class="form-group">
+		                    <label for="name">
+		                        Name</label>
+		                    <input type="text" name="name" class="form-control required" id="name" placeholder="Enter name" required="required" />
+		                </div>
+
+		                <div class="form-group">
+		                    <label for="email">
+		                        Email Address</label>
+		                    <div class="input-group">
+		                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
+		                        </span>
+		                        <input type="email" name="email" class="form-control required" id="email" placeholder="Enter email" required="required" /></div>
+		                </div>
+
+		                <div class="form-group">
+		                    <label for="subject">
+		                        Subject</label>
+		                    <input type="text" name="subject" class="form-control required" id="subject" placeholder="Enter subject" required="required" />
+		                </div>
+
+		            </div>
+
+		            <div class="col-md-6">
+
+		                <div class="form-group">
+		                    <label for="message">
+		                        Message</label>
+		                    <textarea name="message" id="message" class="form-control required" rows="9" cols="25" required="required"
+		                        placeholder="Message"></textarea>
+		                </div>
+
+		            </div>
+
+		            <div class="col-md-12">
+
+		                <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
+		                    Send Message</button>
+
+		            </div>
+		        </div>
+	        </form>
 		</section> <!-- #cd-placeholder-5 -->
 	</main> <!-- .cd-main-content -->
 
 @endsection
 
-@section('javascript')
+@section('scripts')
+
+{!! Html::script('js/parsley.min.js') !!}
 
 <script>
 
