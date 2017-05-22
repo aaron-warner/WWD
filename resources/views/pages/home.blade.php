@@ -13,7 +13,7 @@
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="/">
-				<img src="{{ asset('images/logo.png') }}" width="120" height="70" class="img-responsive" alt="Warner Web Design logo">
+				<img src="{{ asset('images/wwd-w-logo.png') }}" width="100" height="50" class="img-responsive" alt="Warner Web Design logo">
 			</a>
 		</div>
 		<nav class="cd-primary-nav">
@@ -28,7 +28,7 @@
 	<section id="cd-intro">
 		<div id="cd-intro-tagline">
 			<h1>Warner Web Design</h1>
-			<a href="/contact" class="cd-btn">Get In Touch</a>
+			<a href="/portfolio" class="cd-btn">View Portfolio</a>
 		</div> <!-- #cd-intro-tagline -->
 	</section> <!-- #cd-intro -->
 
@@ -39,31 +39,31 @@
 				<li>
 					<a href="#cd-placeholder-1">
 						<b>Intro</b>
-						<span></span><!-- icon -->
+						<span><i class="fa fa-address-card-o fa-2x" aria-hidden="true"></i></span><!-- icon -->
 					</a>
 				</li>
 				<li>
 					<a href="#cd-placeholder-2">
 						<b>Timeline</b>
-						<span></span><!-- icon -->
+						<span><i class="fa fa-history fa-2x" aria-hidden="true"></i></span><!-- icon -->
 					</a>
 				</li>
 				<li>
 					<a href="#cd-placeholder-3">
 						<b>Experience</b>
-						<span></span><!-- icon -->
+						<span><i class="fa fa-code fa-2x" aria-hidden="true"></i></span><!-- icon -->
 					</a>
 				</li>
 				<li>
 					<a href="#cd-placeholder-4">
 						<b>Stats</b>
-						<span></span><!-- icon -->
+						<span><i class="fa fa-bar-chart fa-2x" aria-hidden="true"></i></span><!-- icon -->
 					</a>
 				</li>
 				<li>
 					<a href="#cd-placeholder-5">
 						<b>Contact</b>
-						<span></span><!-- icon -->
+						<span><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></span><!-- icon -->
 					</a>
 				</li>
 			</ul>
@@ -94,11 +94,12 @@
 							<p>Made in the Midlands</p>
     					</div>
     					<div class="body">
-							<p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
+							<p>Web Developer</p>
 							<ul>
-								<li>Rerum sit libero possimus amet excepturi</li>
-								<li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-								<li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
+								<li>Designing and creating websites for members</li>
+								<li>Organising hosting, domain names and DNS records</li>
+								<li>Creating and maintaining databses</li>
+								<li>Offering technical advice to staff and users of company websites</li>
 							</ul>
     					</div>
   					</div>
@@ -109,11 +110,14 @@
 							<p>LearnPlay Foundation</p>
     					</div>
     					<div class="body">
-							<p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
+							<p>Head of Web Department</p>
 							<ul>
-								<li>Rerum sit libero possimus amet excepturi</li>
-								<li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-								<li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
+								<li>Designing and creating websites for clients</li>
+								<li>Providing work to team members based on skills and experience</li>
+								<li>Teaching new employees programming languages and development tools</li>
+								<li>Organising hosting, domain names, and DNS records</li>
+								<li>Creating and maintaining databses</li>
+								<li>Handled and took action regarding safeguarding issues</li>
 							</ul>
     					</div>
   					</div>
@@ -124,11 +128,9 @@
 							<p>University of Birmingham</p>
     					</div>
     					<div class="body">
-							<p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
+							<p>Computer Systems Engeering Bachelors Degree</p>
 							<ul>
-								<li>Rerum sit libero possimus amet excepturi</li>
-								<li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-								<li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
+								<li>Completed one semester before persuing dream career within web development</li>
 							</ul>
     					</div>
   					</div>
@@ -139,11 +141,11 @@
 							<p>Halesowen College</p>
     					</div>
     					<div class="body">
-							<p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
+							<p>A-Levels</p>
 							<ul>
-								<li>Rerum sit libero possimus amet excepturi</li>
-								<li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-								<li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
+								<li>Mathematics</li>
+								<li>Computer Science</li>
+								<li>Statistics</li>
 							</ul>
     					</div>
   					</div>

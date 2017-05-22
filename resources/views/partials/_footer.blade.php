@@ -5,7 +5,7 @@
 			<div class="row">
 
 				<div class="col-md-4">
-					<img src="{{ asset('images/logo.png') }}" width="200" height="130" class="img-responsive" alt="Manufacturing Advisory Service logo">
+					<img src="{{ asset('images/wwd-w-logo-round.png') }}" width="500" height="500" class="img-responsive img-circle" alt="Manufacturing Advisory Service logo">
 				</div>
 
 				<div class="col-md-4">
@@ -16,7 +16,7 @@
 
 					<ul class="social-network social-circle unstyled inline">
 		                <li>
-		                	<a href="https://www.github.com/" class="icoGithub" title="Github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></i></a>
+		                	<a href="https://www.github.com/" class="icoGithub" title="Github" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 		                </li>
 		                <li>
 		                	<a href="https://twitter.com/" class="icoTwitter" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>

@@ -99,6 +99,7 @@ Navigation
 
 #cd-logo {
   float: left;
+  margin-left: 5%;
 }
 #cd-logo img {
   display: block;
