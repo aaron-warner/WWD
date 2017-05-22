@@ -55,12 +55,6 @@
 					</a>
 				</li>
 				<li>
-					<a href="#cd-placeholder-4">
-						<b>Stats</b>
-						<span><i class="fa fa-bar-chart fa-2x" aria-hidden="true"></i></span><!-- icon -->
-					</a>
-				</li>
-				<li>
 					<a href="#cd-placeholder-5">
 						<b>Contact</b>
 						<span><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></span><!-- icon -->
@@ -212,15 +206,6 @@
 
 		</section> <!-- #cd-placeholder-3 -->
 
-		<section id="cd-placeholder-4" class="cd-section cd-container">
-			<div class="home-section-heading">
-				<h2>Stats</h2>
-			</div>
-			<p class="text-center">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ab consequatur fugiat delectus sint in velit quo possimus, ullam aspernatur ipsa natus tenetur nulla distinctio doloremque totam. Earum enim sed dolorum, exercitationem temporibus quaerat eos, accusantium amet facilis facere eaque commodi optio quidem rem minima nisi laborum quae animi nostrum aut voluptates veniam. Cum neque quam fuga sapiente quidem eum necessitatibus nulla, cupiditate a, repudiandae iusto in dolor eaque commodi nostrum consequuntur dolores velit eligendi dolorem quae. Distinctio quae, cumque aliquid quos consequuntur perspiciatis voluptates, laboriosam velit qui et aut sint esse nemo voluptatibus, dolore veritatis natus facilis commodi sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, minus nisi ipsam quasi. Reprehenderit quo dolorem ratione in, porro placeat nihil asperiores, ab earum excepturi sint non. Error officiis, sint expedita dolore fuga voluptates ipsam temporibus vero suscipit porro asperiores deserunt sapiente optio. Quas vero nam nihil!
-			</p>
-		</section> <!-- #cd-placeholder-4 -->
-
 		<section id="cd-placeholder-5" class="cd-section cd-container">
 			<div class="home-section-heading">
 				<h2>Contact Me</h2>
@@ -286,9 +271,5 @@
 @section('scripts')
 
 {!! Html::script('js/parsley.min.js') !!}
-
-<script>
-
-</script>
 
 @endsection

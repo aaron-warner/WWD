@@ -52,4 +52,125 @@
 		</nav>
 	</div> <!-- .cd-secondary-nav -->
 
+	<main class="cd-main-content">
+
+		<section id="cd-placeholder-1" class="cd-section cd-container">
+			<div class="home-section-heading">
+				<h2>Made in the Midlands</h2>
+			</div>
+			<div class="row">
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>Made in the Midlands</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>Manufacturing Advisory Service</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>RAPRA</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+			</div>
+		</section> <!-- #cd-placeholder-1 -->
+
+		<section id="cd-placeholder-2" class="cd-section cd-container">
+			<div class="home-section-heading">
+				<h2>LearnPlay Foundation</h2>
+			</div>
+			<div class="row">
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>LearnPlay Foundation</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>BC TalentMatch</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>Digital Road Safety</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+			</div>
+		</section> <!-- #cd-placeholder-2 -->
+
+		<section id="cd-placeholder-3" class="cd-section cd-container">
+			<div class="home-section-heading">
+				<h2>Personal Clients</h2>
+			</div>
+			<div class="row">
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>JJ Dance</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>Focus-Lets</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+				<div class="col-md-4 col-sm-6 text-center">
+					<figure class="portfolio-entry">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample108.jpg" alt="sample108" />
+						<figcaption>
+							<h3>Other</h3>
+						</figcaption>
+						<a href="#"></a>
+					</figure>
+				</div>
+
+			</div>
+		</section> <!-- #cd-placeholder-3 -->
+
+	</main>
+
 @endsection

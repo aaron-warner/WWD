@@ -5,7 +5,7 @@
 			<div class="row">
 
 				<div class="col-md-4">
-					<img src="{{ asset('images/wwd-w-logo-round.png') }}" width="500" height="500" class="img-responsive img-circle" alt="Manufacturing Advisory Service logo">
+					<img src="{{ asset('images/wwd-w-logo-round.png') }}" width="250" height="250" class="img-responsive img-circle img-center" alt="Manufacturing Advisory Service logo">
 				</div>
 
 				<div class="col-md-4">
